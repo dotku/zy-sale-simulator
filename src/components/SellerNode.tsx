@@ -1,4 +1,3 @@
-import React from 'react';
 import { Handle, Position } from 'reactflow';
 import { UserCircle } from 'lucide-react';
 import type { Seller } from '../types';
